@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestRunner.LoginTestRunner" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-09-12T17:30:16" hostname="DESKTOP-SFCSP7G" time="48.984">
+  <properties/>
+  <testcase name="doLogin" classname="TestRunner.LoginTestRunner" time="22.923"/>
+  <testcase name="doLoginInvalidEmail" classname="TestRunner.LoginTestRunner" time="10.051"/>
+  <testcase name="doLoginForWrongPassword" classname="TestRunner.LoginTestRunner" time="16.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
